@@ -1,1 +1,1 @@
-# stockmarket_website
+Welcome to the Stock Market Website project! This project is a comprehensive web application designed to provide real-time stock market data, analysis tools, and user portfolio management. It aims to help users make informed investment decisions by offering a range of features including live stock quotes, historical data charts, and personalized stock watchlists.
