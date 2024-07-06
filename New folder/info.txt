@@ -1,0 +1,7 @@
+http://api.marketstack.com/v1/eod
+    ? access_key = ODPNV5UXCHRABXU7
+    & symbols = AAPL
+    & date_from = 2023-04-14
+    & date_to = 2023-04-24
+
+https://www.alphavantage.co/query?function=TIME_SERIES_MONTHLY&symbol=IBM&apikey=demo
